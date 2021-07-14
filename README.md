@@ -42,5 +42,5 @@ This is the final assignment from the Data Management course from the Big Data &
 ![topprduct](https://user-images.githubusercontent.com/85830810/125605784-47d05d4d-504b-43e8-97d2-948203f3f7a5.png)
 
 ## Summary
-[Adventure WORKS_v1.pptx](https://github.com/RomainBal/Adventure_Work_Kettle/files/6815321/Adventure.WORKS_v1.pptx)
-xxx
+- [Adventure WORKS_v1.pptx](https://github.com/RomainBal/Adventure_Work_Kettle/files/6815321/Adventure.WORKS_v1.pptx)
+- [AdventureWorks - Content explanation.pdf](https://github.com/RomainBal/Adventure_Work_Kettle/files/6815379/AdventureWorks.-.Content.explanation.pdf)
