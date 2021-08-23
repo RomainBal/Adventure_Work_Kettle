@@ -14,9 +14,6 @@ This is the final assignment from the Data Management course from the Big Data &
 - Raquel Ganuza
 - Ziyad Ashukri
 
-## Architecture
-![1](https://user-images.githubusercontent.com/85830810/125605274-6b8b230c-ee98-48e5-8851-ca905537758e.png)
-
 ## Highlights
 ### Star Schema
 ![extract](https://user-images.githubusercontent.com/85830810/125605532-c3450927-fe46-4e07-b8f0-dc9f45c9b047.png)
